@@ -1,13 +1,4 @@
-### Hi there 👋
-
-<!--
-**Sabyh/Sabyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...## Hi there 👋
+## Hi there 👋
 ## :rocket: :rocket: You just hit my github profile link :rocket: :rocket:
 
 ##  :ghost: Introduction :ghost:
@@ -31,10 +22,3 @@ Here are some ideas to get you started:
 
 ## 📫📫 How to reach me 📫📫:
   :snowman::snowman: [Linkedin] (www.linkedin.com/in/sabyh) :snowman::snowman: Tho I prefer whats app :stuck_out_tongue::stuck_out_tongue:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
