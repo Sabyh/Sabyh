@@ -1,24 +1,69 @@
-## Hi there 👋
-## :rocket: :rocket: You just hit my github profile link :rocket: :rocket:
+Here's a modified version of the GitHub profile README tailored for **Sabyh Ahmad**:
 
-##  :ghost: Introduction :ghost:
-  :bowtie::bowtie: I am **Sabyh** a nerdy and boring/lazy coder that doesn't like to go out. Mostly like to spend time on laptop reading books, learning some cool stuff, solving coding problems or watching some tech related conference. Thats it not much in life except these !! :bowtie::bowtie:
+---
 
-##  :sun_with_face::sun_with_face: Interests :sun_with_face::sun_with_face:
-  :cat::cat: I am interested in anything that is related to computer science :joy::joy:. But let me state some of them machine learning, computer graphics, AR/VR, Maths, Algorithms, Data structure, big data and the list goes on.... :cat::cat:  
+**`Producer of Bugs (Software Engineer)`**
 
-## ⚡⚡ Certifications ⚡⚡
-  😄😄 I am working on a lot of certifications right now. My targets right now are Google and Microsoft 😄😄
-  
-  
-  
-![GitHub Logo](https://images.youracclaim.com/size/110x110/images/2a15d440-edbe-44a2-890f-0a0caf7e1442/AWS-Developer-Associate.png) 
-![GitHub Logo](https://images.youracclaim.com/size/110x110/images/db3d8b5c-8ecc-429f-8f40-c1706b98d729/Oracle-Certification-badge_OC-Specialist.png) 
-![GitHub Logo](https://images.youracclaim.com/size/110x110/images/e2f31cc4-a86f-4d6f-b11a-2b6facdb7aa0/Oracle-Certification-badge_OC-Associate600X600.png) 
+<p align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+Nl&size=23&duration=1&color=F6C177&vCenter=true&repeat=false&width=435&lines=Sabyh+Ahmad" alt="Typing SVG" /></a>
+</p>
 
-### :globe_with_meridians::globe_with_meridians: Links :globe_with_meridians::globe_with_meridians:
-  :dolphin::dolphin: [Qwik Lab profile](https://www.qwiklabs.com/public_profiles/a744bae9-ae95-4819-833c-2149caf31180) :dolphin::dolphin:
-  :cloud: :cloud: [Acclaim profile](https://www.youracclaim.com/users/sabhi-ahmed) :cloud::cloud:
+<p align="left">
+    I started programming in mid 2022 while studying Aerospace Engineering and accidentally discovered my enjoyment for programming.  
+    I've always been into tech and wanted to build things.  
+    Since then, I've been focused on improving my skills and knowledge.  
+    I also create content focused on programming, tech, and productivity, sharing insights and lessons on my YouTube channel.
+</p>
 
-## 📫📫 How to reach me 📫📫:
-  :snowman::snowman: [Linkedin] (www.linkedin.com/in/sabyh) :snowman::snowman: Tho I prefer whats app :stuck_out_tongue::stuck_out_tongue:
+<p>
+    Currently using macOS. Planning to switch to Linux someday.
+</p>
+
+<p>
+    <a href="https://sabyh-ahmad.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+        <img alt="Visit Sabyh Ahmad website" title="Visit Sabyh Ahmad website" src="https://img.shields.io/badge/Sabyh%20Ahmad-9CCFD8?style=for-the-badge&logo=netlify&labelColor=000000" /></a>
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1" style="text-decoration: none;">
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCWam55wUh-OOcvrGJisq0zA?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630&color=E05D44" style="display: block;"/></a>
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA">
+        <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCWam55wUh-OOcvrGJisq0zA?style=for-the-badge&logo=youtube&logoColor=white&labelColor=003B6F&color=83C9F4"/></a>
+</p>
+
+---
+
+### 📽️ Featured Videos
+
+[![8 Must Have Command Line tools](https://ytcards.demolab.com/?id=CbMbGV9GT8I\&title=8+Must+Have+Command+Line+Tools\&lang=en\&timestamp=1732899600\&background_color=%230d1117\&title_color=%23ffffff\&stats_color=%23dedede\&max_title_lines=1\&width=250\&border_radius=5\&duration=456)](https://youtu.be/CbMbGV9GT8I)
+[![Neovim Setup Guide](https://ytcards.demolab.com/?id=FGVY7gbaoQI\&title=The+Ultimate+Neovim+Setup+Guide+From+Scratch\&lang=en\&timestamp=1746369000\&background_color=%230d1117\&title_color=%23ffffff\&stats_color=%23dedede\&max_title_lines=1\&width=250\&border_radius=5\&duration=456)](https://youtu.be/FGVY7gbaoQI)
+[![Ghostty Terminal Review](https://ytcards.demolab.com/?id=UcK6lDcL8fU\&title=Ghostty+is+One+of+a+Kind\&lang=en\&timestamp=1735405200\&background_color=%230d1117\&title_color=%23ffffff\&stats_color=%23dedede\&max_title_lines=1\&width=250\&border_radius=5\&duration=456)](https://youtu.be/UcK6lDcL8fU)
+
+---
+
+### 🔧 Tech Stack
+
+* **Languages**: JavaScript, TypeScript
+* **Frontend**: React, HTML, CSS
+* **Backend**: Node.js, Express
+* **Databases**: MongoDB, MySQL, GraphQL
+* **Tools**: Git, Vim/Neovim, VSCode, Terminal Utils
+
+---
+
+### 📊 GitHub Stats
+
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sin-cy\&layout=compact\&theme=rose_pine\&show_icons=true)
+
+---
+
+### 📫 Contact
+
+<p align="left">
+    <a href="https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA?sub_confirmation=1"><img width="32px" alt="YouTube" title="YouTube" src="https://img.icons8.com/fluency/48/26e07f/youtube-play.png" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://sabyh-ahmad.netlify.app/#contact"><img width="32px" alt="Contact" title="Email me here" src="https://cdn-icons-png.flaticon.com/128/3296/3296464.png" /></a>
+</p>
+
+* Email: **[sabyh@example.com](mailto:sabyh@example.com)** (replace with your real one)
+
+---
+
+Would you like me to generate this as a `README.md` file for copy-paste or push to your GitHub repo?
