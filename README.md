@@ -1,5 +1,3 @@
----
-
 **`Producer of Bugs (Software Engineer)`**
 
 <p align="left">
@@ -60,5 +58,3 @@
 
 * **Email**: [sabyhahmed@outlook.com](mailto:sabyhahmed@outlook.com)
 * **LinkedIn**: [linkedin.com/in/sabyh](https://www.linkedin.com/in/sabyh)
-
----
