@@ -6,24 +6,25 @@
     </a>
 </p>
 
+**`Producer of Bugs (Software Engineer)`**  
 **Senior Backend, Data & AI Platform Engineer** — Specializing in cloud-native microservices, event-driven data pipelines, serverless AI platforms, and real-time collaboration systems.
 
 📧 **sabyhahmed@outlook.com** • 📍 **Lahore, Pakistan**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sabyh/) • [Portfolio](https://sabyh-ahmad.netlify.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/sabyh/) • [Portfolio](https://sabyh-ahmad.netlify.app/) • [YouTube](https://www.youtube.com/channel/UCWam55wUh-OOcvrGJisq0zA)
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-I'm a Lead Backend Developer & Senior AI Engineer with **8+ years** of experience designing and shipping production-grade systems on **AWS** and **GCP**. My expertise spans **Go, TypeScript, and Python** with deep, production-proven experience in:
+Lead Backend Developer with **8+ years** of experience designing and shipping cloud-native microservices, serverless AI platforms, and real-time collaboration infrastructure on **AWS** and **GCP**. Specialist in **Go** and **TypeScript** with deep, production-proven expertise in:
 
-- **LLM Integration**: AWS Bedrock, OpenAI, Gemini with tool/function-calling for deterministic dialog control
-- **Vector Search**: Weaviate, hybrid semantic + keyword retrieval for AI-powered document search
-- **Data & Analytics**: AWS Athena, Glue Catalog, event-driven data pipelines, and analytics-ready datasets
-- **Multi-Agent Orchestration**: Building scalable AI systems with provider-agnostic orchestration layers
+- **LLM Integration**: AWS Bedrock, OpenAI, Gemini — provider-agnostic orchestration with tool/function-calling
+- **Vector Search**: Weaviate, pgvector, hybrid semantic + keyword retrieval for AI-powered search
+- **Data & Analytics**: AWS Athena, Glue Catalog, event-driven pipelines, analytics-ready datasets
+- **Multi-Agent Orchestration**: Building scalable AI systems with deterministic dialog control
 - **Cloud Infrastructure**: AWS CDK, Terraform, Kubernetes (CKA certified)
 
-I have a track record of leading architecture decisions across high-complexity platforms — from **AR/VR enterprise collaboration** and **blockchain analytics** to **franchise intelligence** and **AI-powered real estate systems**.
+Track record of leading architecture decisions across high-complexity platforms — from **AR/VR enterprise collaboration** and **blockchain analytics** to **franchise intelligence** and **AI-powered real estate systems**.
 
 ---
 
@@ -38,70 +39,90 @@ I have a track record of leading architecture decisions across high-complexity p
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-### Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frameworks & Libraries
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### AI & ML
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00B39F?style=for-the-badge&logo=weaviate&logoColor=white)
-
-### Databases & Analytics
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![AWS Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Go, TypeScript, JavaScript, Python, Node.js |
+| **Backend Frameworks** | Fiber (Go), Express.js, Fastify, NestJS, REST, gRPC, WebSocket, SSE, Socket.IO |
+| **AI / LLM** | AWS Bedrock (Claude, Titan), OpenAI, Gemini, Weaviate, pgvector, RAG pipelines, Prompt Engineering, Function Calling |
+| **Databases** | PostgreSQL (pgx / Aurora), MongoDB, DynamoDB, Redis, MySQL |
+| **AWS Services** | Lambda, API Gateway, SQS, SNS, S3, Bedrock, Lex, CloudWatch, CDK, ECR, EKS, App Runner, ECS Fargate, RDS Postgres, Route53, VPC, Secrets Manager, SageMaker, Polly, SES |
+| **DevOps / Infra** | Docker, Kubernetes (CKA), Terraform, AWS CDK, GitHub Actions (CI/CD, blue/green), GitLab CI, SonarQube, Grafana, Cloudflare DNS |
+| **Other** | OAuth 2.0, SAML SSO, PKCE, JWT, Photon Realtime, multi-tenancy, structured logging, observability, incident response, secrets management |
 
 ---
 
-## 💼 Key Projects & Achievements
+## 💼 Professional Experience
 
-### 📡 Enterprise AR/VR Collaboration Platform (Arthur Digital)
-- **Led design & delivery** of 5 production backend systems with **99.9% uptime**
-- Built **provider-agnostic LLM orchestration** (AWS Bedrock, OpenAI, Gemini) for AI meeting bots
-- Architected **multi-tenant AI document search** using Weaviate with hybrid semantic retrieval
-- Designed **analytics pipelines** processing high-volume meeting telemetry and user events
-- Leveraged **AWS Athena & Glue Catalog** for ad hoc analytics and operational reporting
-- Engineered **serverless infrastructure** with AWS CDK, achieving **60% faster release cycles**
-- Implemented **SSO system** (Google, Microsoft, OAuth2/PKCE) with JWT-based access control
+### Lead Backend Developer — Arthur Digital (Jun 2022 – 2026)
+*Enterprise AR/VR collaboration platform for immersive remote meetings & training*
 
-### 🏢 Franchise Intelligence Platform (Innovative)
-- Architected **AI/LLM orchestration** on AWS Bedrock (Claude 3 Haiku) for KPI narrative generation
-- Delivered **7 Dockerized Lambda microservices** with unified API Gateway event routing
-- Built **automated Watchlist Scheduler** (EventBridge cron) with HTML/PDF email reports
-- Provisioned all infrastructure with **modular Terraform**, cutting setup time from days to minutes
+- Led design and delivery of **5 production backend systems** (AI agents, semantic search, real-time collaboration, SSO, serverless infra) maintaining **99.9% uptime**.
+- Architected a **provider-agnostic LLM orchestration layer** (AWS Bedrock, OpenAI, Gemini) with tool/function-calling for deterministic dialog control, serving multi-turn AI meeting bots.
+- Built a **multi-tenant AI document search platform** ingesting PDF, DOCX, Excel, images into Weaviate with hybrid semantic + keyword retrieval.
+- Engineered **multi-environment serverless infrastructure** using AWS CDK (TypeScript) with Lambda dependency graphs, IAM wiring, X-Ray, and CloudFormation exports.
+- Implemented **flexible SSO** (Google, Microsoft, OAuth2, PKCE/Cognito) with JWT-based role-aware access control for enterprise multi-tenancy.
+- Led **AWS → GCP infrastructure migration** automated via Terraform & GitHub Actions; introduced SonarQube quality gates, improving test coverage by 15% and **reducing release cycle time by 60%**.
 
-### ⛓️ Blockchain Analytics & NFT Marketplace (Big Immersive / Virtua)
-- Built **event-driven auction scheduler** handling **50,000+ concurrent bids**
-- **Reduced API latency by 80%** (900ms → 180ms) through query optimization
-- Architected **Blockchain Eye ETL pipeline** ingesting multi-chain events into Athena/Parquet
-- Built **WebSocket gateway** for real-time notifications, eliminating client polling
+### Senior Backend & AI Engineer (Contract) — Innovative (2025 – 2026)
+*Franchise intelligence platform turning KPI data into AI-powered insights*
+
+- Architected AI/LLM orchestration on **AWS Bedrock (Claude 3 Haiku)** to auto-generate KPI narrative summaries with async job handling via SQS.
+- Delivered **7 Dockerized Lambda microservices** (KPI Writer, Catalog, Watchlist, Alerts, LLM Orchestration, Scheduler) fronted by API Gateway with unified event-routing.
+- Built automated **Watchlist Scheduler** (EventBridge cron) pulling data from Aurora PostgreSQL, generating AI snapshots, and dispatching HTML email reports with PDF attachments via SES — with SNS alerting and DLQ error handling.
+- Provisioned all infrastructure with **modular Terraform** across dev/prod, cutting environment setup from days to minutes.
+
+### Senior Backend Developer — Big Immersive / Virtua (Nov 2018 – Jun 2022)
+*NFT Marketplace & Blockchain Analytics*
+
+- Built event-driven auction scheduler (SNS + SQS + Lambda) handling **50,000+ concurrent bids** with guaranteed delivery.
+- Reduced listing API P95 latency from **900 ms → 180 ms (80% improvement)** via query optimisation and page-level caching.
+- Architected **Blockchain Eye ETL pipeline** ingesting multi-chain data into Athena/Parquet data lake, enabling scalable analytics.
+- Built a **WebSocket gateway** for real-time notifications (TypeScript + API Gateway), removing client polling and reducing server load significantly.
+
+---
+
+## 🔬 Key Projects
+
+### AI Vibe Agent — Meeting Intelligence Bot
+*Go · AWS Lambda · Bedrock · OpenAI · Gemini · Redis · S3 · Polly*
+- Serverless Go service supporting multi-turn interview/meeting bots with strict, balanced, and freeflow conversation modes.
+- Provider-agnostic LLM adapter/factory with tool/function-calling (`request_clarifier`, `redirect_to_topic`, `endConversation`) for deterministic, safe dialog control.
+- Redis-backed session state with TTLs, pipelines, and idempotent resets — managing message history, question progress, and AI config across concurrent sessions.
+- LLM-based structured note extraction and edit-note command parser; multilingual transcript support via LLM translation with JSON schema preservation.
+- Integrated AWS Polly TTS (Neural → Standard fallback) for real‑time client delivery.
+
+### AI Document Search Platform
+*Python · AWS Bedrock (Titan) · Weaviate · MongoDB · Lambda · SQS · Terraform*
+- End-to-end AI search pipeline: ingestion of PDF, DOCX, Excel, images → MongoDB → Bedrock embeddings → Weaviate with per‑tenant isolation.
+- Hybrid semantic + keyword search API combining vector similarity with tenant-scoped filters, ensuring strict data isolation while preserving retrieval quality.
+- Idempotent ingestion pipeline handling INSERT/UPDATE/DELETE across multiple collections with configurable chunking, retry logic, and DLQ error handling.
+
+### Bode Real Estate AI — Serverless Infrastructure
+*AWS CDK TypeScript · Lambda · Bedrock Agents · Lex · Node.js 20.x*
+- Designed reusable `BodeInfraStack` provisioning Lambdas, IAM, logging, and tagging across dev/staging/prod with environment-specific configs (timeouts, memory, concurrency, log retention).
+- Implemented Lambda factory pattern (`LambdaFactory` + `CustomLambdaFunction`) standardising Node.js 20.x provisioning — runtime, bundling, X‑Ray toggles, tagging, env injection.
+- Modelled Lambdas as dependency graphs with automatic fine‑grained IAM invoke permissions and ARN injection, enabling agent-style orchestration without hard‑coded wiring.
+
+### Arthur Vibe Platform — Go REST API
+*Go · Fiber · PostgreSQL (pgx) · MongoDB · pgvector · OpenAI · Gemini · JIRA · S3*
+- Production Go (Fiber) REST API managing vibe/scenario lifecycle, meetings, pipelines, rooms, analytics, and real‑time SSE + WebSocket endpoints with JWT auth.
+- Dual‑database architecture (PostgreSQL + MongoDB, selectable via DB_TYPE), repository pattern, rate limiting, and standard middleware stack.
+- Integrated LLM providers for chat API with meeting context and vector Q&A over meetings using pgvector; built JIRA integration with tool‑style function calling for AI‑driven task management.
+
+### Innovative Franchise Platform — DevOps & Infrastructure
+*Terraform · GitHub Actions · ECS Fargate · App Runner · RDS Postgres · Secrets Manager · Route53 · VPC · Cloudflare*
+- Owned AWS infrastructure across production, beta, and nonprod — App Runner, ECS Fargate, ECR, RDS Postgres with automated snapshot DR.
+- Authored GitHub Actions CI/CD pipelines with pre‑deploy gates, post‑deploy health checks, E2E smoke tests, and blue/green cutover patterns.
+- Led Terraform‑only IaC migration (sunsetting CDK) with modular workspaces, one‑command environment setup, and full secrets lifecycle via Secrets Manager.
+- Managed Cloudflare + Route53 DNS cutovers under live traffic; debugged VPC, security group, and secret ARN issues with postmortems within 48 hours.
+- Implemented monitoring/alerting with CloudWatch alarms, Grafana dashboards, and structured logging — every customer‑facing flow alarmed and paged.
+
+### Innovative Franchise Intelligence — AI FBC Platform
+*Go · Python · Aurora PostgreSQL · MongoDB · Bedrock · EventBridge · SES · Terraform*
+- Designed microservice architecture in Go (Fiber) and Python with repository pattern across PostgreSQL, MongoDB, and Aurora PostgreSQL.
+- Built Watchlist Scheduler pipeline (EventBridge cron → Aurora → Bedrock → SES/ReportLab PDF) fully automating franchise KPI reporting with SNS alerting and DLQ-based failure handling.
 
 ---
 
@@ -136,10 +157,10 @@ I have a track record of leading architecture decisions across high-complexity p
 
 ### 🎯 What I'm Currently Up To
 
-- Building AI-powered platforms with multi-agent orchestration
-- Exploring advanced LLM integration patterns and RAG architectures
-- Contributing to open-source and creating tech content
-- Sharing insights on programming, AI, and system design
+- Building AI-powered platforms with multi-agent orchestration and RAG pipelines.
+- Exploring advanced LLM integration patterns and provider-agnostic abstractions.
+- Contributing to open-source, creating tech content, and sharing insights on system design.
+- Deepening expertise in cloud-native infrastructure and observability.
 
 ---
 
